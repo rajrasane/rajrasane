@@ -3,4 +3,4 @@
 - A Computer Science Student ⭐ 
 - From India &hearts;
 - I’m currently learning JS 🌱 
-- Reach Me - rajrasane04@gmail.com
+- Reach Me - rasaneraj04@gmail.com
