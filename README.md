@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- A Computer Science Student ⭐ <br>- From India &hearts;<br>- I’m currently learning Web Dev🌱 <br>- Reach Me - rasaneraj04@gmail.com</p>
+<p align="left">- A Computer Science Student ⭐ <br>- From India &hearts;<br>- I’m currently learning MERN 🌱 <br>- Reach Me - rasaneraj04@gmail.com</p>
 
 ###
 
@@ -43,8 +43,17 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
 ###
@@ -59,7 +68,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajrasane04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=rajrasane04&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
