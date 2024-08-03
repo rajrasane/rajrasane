@@ -1,4 +1,4 @@
-<h1 align="left">Hey There, I’m Raj Rasane</h1>
+<h1 align="left">Hey there, I’m Raj Rasane</h1>
 
 ###
 
