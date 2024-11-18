@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- A Computer Science Student ⭐ <br>- From India &hearts;<br>- I’m currently into Web Dev 🌱 <br>- Reach Me - rasaneraj04@gmail.com</p>
+<p align="left">- A Computer Science Student ⭐ <br>- From India &hearts;<br>- I’m currently into Web Dev 🌱
 
 ###
 
