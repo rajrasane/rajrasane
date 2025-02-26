@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- A Computer Science Student ⭐ <br>- From India &hearts;<br>- I’m currently into Web and App Dev 🌱
+<p align="left">- A CS Undergrad from India &hearts;<br>- I’m currently into Web Dev , App Dev and some AI/ML stuff 🌱
 
 ###
 
