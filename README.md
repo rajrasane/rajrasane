@@ -1,4 +1,4 @@
-<h1 align="left">Hey there, myself Raj .</h1>
+<h1 align="left">Hey there, myself Raj</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- A fullstack developer from India ♥<br>- I’m into Web Dev and some AI/ML stuff 🌱</p>
+<p align="left">- A fullstack developer from India ♥<br>- I’m into Web Dev , Cybersecurity and some AI/ML stuff 🌱</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">Language and Tools</h3>
+<h3 align="left">Languages , Libraries , Frameworks and Tools</h3>
 
 ###
 
@@ -55,9 +55,11 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
 </div>
 
 ###
@@ -67,7 +69,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rajrasane&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img height="285" src="https://camo.githubusercontent.com/a377e96747813ccee88b14bffbd5ca6918428c843a8dc3fb64201dc29db18005/68747470733a2f2f7377616c6c2e7465616875622e696f2f70686f746f732f736d616c6c2f3336352d333635313334315f706c6163652d70726f6d697365642d696e2d6f75722d6561726c792d646179732d31303830702e6a7067"  />
 </div>
 
 ###
@@ -76,8 +78,5 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/a377e96747813ccee88b14bffbd5ca6918428c843a8dc3fb64201dc29db18005/68747470733a2f2f7377616c6c2e7465616875622e696f2f70686f746f732f736d616c6c2f3336352d333635313334315f706c6163652d70726f6d697365642d696e2d6f75722d6561726c792d646179732d31303830702e6a7067"  />
-</div>
 
 ###
