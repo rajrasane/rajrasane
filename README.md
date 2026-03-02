@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- A fullstack developer from India ♥<br>- I’m into Web Dev , Cybersecurity and some AI/ML stuff 🌱</p>
+<p align="left">Frontend developer from India. I build web apps with React, Next.js, TypeScript, and Tailwind CSS.</p>
 
 ###
 
@@ -62,15 +62,10 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
 </div>
 
-###
 
-<h1 align="left"></h1>
-
-###
-
-<div align="center">
+<!-- <div align="center">
   <img height="285" src="https://camo.githubusercontent.com/a377e96747813ccee88b14bffbd5ca6918428c843a8dc3fb64201dc29db18005/68747470733a2f2f7377616c6c2e7465616875622e696f2f70686f746f732f736d616c6c2f3336352d333635313334315f706c6163652d70726f6d697365642d696e2d6f75722d6561726c792d646179732d31303830702e6a7067"  />
-</div>
+</div> -->
 
 ###
 
