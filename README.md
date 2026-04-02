@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Frontend developer from India. I build web apps with React, Next.js, TypeScript, and Tailwind CSS.</p>
+<p align="left">Software Developer from India. I build modern, scalalble web apps.</p>
 
 ###
 
