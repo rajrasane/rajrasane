@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Software Developer from India. I build modern, scalalble web apps.</p>
+<p align="left">I build modern, scalalble web apps.</p>
 
 ###
 
